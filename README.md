@@ -1,1 +1,1 @@
-# my-portfolio
+# Amazonでの購入プロセスを自動テスト
