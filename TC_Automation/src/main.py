@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import os
 from app.settings import NEW_FILE, NEW_FILE_PATH
 import tkinter as tk
@@ -36,11 +30,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-# In[ ]:
-
-
-
-
