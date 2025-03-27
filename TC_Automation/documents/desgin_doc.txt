@@ -6,7 +6,7 @@ TCA（Testcase Automation with Amazon）
 --------------------------
 名前 Author
 --------------------------
-清原 渉 Wataru Kiyohara
+dulchan
 
 --------------------------
 目的 Goal
